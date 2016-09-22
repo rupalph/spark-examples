@@ -1,5 +1,8 @@
 #spark-examples
 
+1. WordCount
+Counts Words after removing puncuations from the file.
+
 To build, run:
 sbt package
 
